@@ -1,0 +1,44 @@
+ 
+using UnityEngine;
+using Pixeye.Framework;
+using System.Runtime.CompilerServices;
+
+##NAMESPACE##
+{
+    
+    sealed class ##NAME## 
+  	{
+     	 
+       
+  	}
+  	
+    #region HELPERS
+    static partial class Components
+    {
+    
+            public const string ##NAME2## = "##NAMESPACE2##.##NAME##";
+    
+        	[RuntimeInitializeOnLoadMethod]
+    		static void ##NAME##Init()
+    		{
+    			Storage<##NAME##>.Instance.Creator = () => { return new ##NAME##(); };
+    			Storage<##NAME##>.Instance.DisposeAction = Dispose##NAME##;
+    		}
+    
+            /// Use this method to clean variables
+        	[MethodImpl(MethodImplOptions.AggressiveInlining)]
+    		internal static void Dispose##NAME##(in ent entity)
+    		{
+    	      ref var component = ref Storage<##NAME##>.Instance.components[entity.id];
+    		}
+                
+    		 
+            [MethodImpl(MethodImplOptions.AggressiveInlining)]
+            internal static ref ##NAME## ##NAME##(in this ent entity)
+            {
+               return ref Storage<##NAME##>.Instance.components[entity.id];
+            }
+    }
+    #endregion
+ 
+}

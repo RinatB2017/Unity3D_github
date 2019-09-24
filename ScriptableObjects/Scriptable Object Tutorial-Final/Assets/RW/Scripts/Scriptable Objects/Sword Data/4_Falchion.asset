@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 181b54838733cd843a69d28530fd33b1, type: 3}
+  m_Name: 4_Falchion
+  m_EditorClassIdentifier: 
+  swordName: Falchion
+  description: A sword with a single sided edge
+  icon: {fileID: 21300000, guid: 433e5d9a050489f48bdb85605c9e1337, type: 3}
+  goldCost: 250
+  attackDamage: 30

@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2F7DE8BF-3D2F-AC70-B188-31DCD0CD6426}") = "Super Retro Shooter Starter", "Assembly-CSharp.csproj", "{D07FD637-AA89-E4E4-EB4F-C39AEC41B841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D07FD637-AA89-E4E4-EB4F-C39AEC41B841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07FD637-AA89-E4E4-EB4F-C39AEC41B841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07FD637-AA89-E4E4-EB4F-C39AEC41B841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07FD637-AA89-E4E4-EB4F-C39AEC41B841}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

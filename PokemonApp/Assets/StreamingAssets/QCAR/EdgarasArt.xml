@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pokemon_2" size="512.000000 395.432587" />
+    <ImageTarget name="icard" size="512.000000 339.260712" />
+  </Tracking>
+</QCARConfig>
