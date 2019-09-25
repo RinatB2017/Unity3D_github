@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - soldier
+  - finish
+  - tank
+  - plane
+  - bullet
+  - coin
+  - rocket
+  - turretTower
+  - rocketTower
+  - rifleSoundEffect
+  - missileSoundEffect
+  - shortExplosionSoundEffect
+  - bigExplosionSoundEffect
+  - explosionParticle
+  - coinSoundEffect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - enemy
+  - turret
+  - clickable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2305107875
+    locked: 0
+  - name: MIddleground
+    uniqueID: 1643685623
+    locked: 0
+  - name: Foreground
+    uniqueID: 2938625035
+    locked: 0
+  - name: Clouds
+    uniqueID: 389745481
+    locked: 0
