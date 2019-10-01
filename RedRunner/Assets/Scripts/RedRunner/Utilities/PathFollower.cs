@@ -6,10 +6,8 @@ using RedRunner.Characters;
 
 namespace RedRunner.Utilities
 {
-
 	public class PathFollower : MonoBehaviour
 	{
-
 		[SerializeField]
 		protected PathDefinition m_PathDefinition;
 		[SerializeField]
@@ -146,7 +144,5 @@ namespace RedRunner.Utilities
 			m_CurrentPoint.MoveNext ();
 			m_IsMovingNext = false;
 		}
-
 	}
-
 }

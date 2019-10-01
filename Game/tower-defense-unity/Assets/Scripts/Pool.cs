@@ -60,7 +60,10 @@ public class Pool : MonoBehaviour
 	public GameObject ActivateObject(string tag)
     {
         if (!pooledObjects.ContainsKey(tag))
+        {
+            print("Tag [" + tag + "] not found!");
             throw new KeyNotFoundException();
+        }
 
         var singlePool = pool[tag];
 
@@ -78,7 +81,10 @@ public class Pool : MonoBehaviour
     public void DeactivateObject(GameObject item)
     {
         if (!pooledObjects.ContainsKey(item.tag))
+        {
+            print("Tag [" + tag + "] not found!");
             throw new KeyNotFoundException();
+        }
 
         var singlePool = pool[item.tag];
 
