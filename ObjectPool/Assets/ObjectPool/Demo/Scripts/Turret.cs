@@ -18,7 +18,9 @@ public class Turret : MonoBehaviour
 			transform.rotation = Quaternion.RotateTowards(transform.rotation, targetRotation, 360 * Time.deltaTime);
 
 			if (Input.GetMouseButtonDown(0))
+			{
 				bulletPrefab.Spawn(gun.position, gun.rotation);
+			}
 		}
 	}
 }
