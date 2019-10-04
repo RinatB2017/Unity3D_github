@@ -19,12 +19,17 @@ public class PathFollower : MonoBehaviour
     private Vector2 v1, v2, v3;
     private float t;
 
-	void OnEnable ()
+    void OnEnable ()
     {
         switch(Type)
         {
-            case PathType.Ground: path = GameObject.Find("GroundPath").GetComponent<PathCreator>().path; break;
-            case PathType.Air: path = GameObject.Find("AirPath").GetComponent<PathCreator>().path; break;
+            case PathType.Ground: 
+                path = GameObject.Find("GroundPath").GetComponent<PathCreator>().path; 
+                break;
+                
+            case PathType.Air: 
+                path = GameObject.Find("AirPath").GetComponent<PathCreator>().path; 
+                break;
         }
 
         segmentIndex = 0;
@@ -34,7 +39,7 @@ public class PathFollower : MonoBehaviour
         transform.position = A;        
 	}
 	
-	void FixedUpdate ()
+    void FixedUpdate ()
     {
         if (segmentIndex >= path.NumSegments) return;
 
