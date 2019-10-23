@@ -1,4 +1,4 @@
-﻿# Actions
+# Actions
 
 Use this sub-menu to access editor and component windows.
 

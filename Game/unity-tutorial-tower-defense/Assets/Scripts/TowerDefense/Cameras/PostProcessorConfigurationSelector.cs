@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using UnityEngine.PostProcessing;
 
 namespace TowerDefense.Cameras

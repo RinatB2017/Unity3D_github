@@ -1,4 +1,4 @@
-﻿using Core.Extensions;
+using Core.Extensions;
 #if UNITY_EDITOR
 using UnityEngine;
 #endif

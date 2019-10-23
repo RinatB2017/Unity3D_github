@@ -1,4 +1,4 @@
-﻿using JetBrains.Annotations;
+using JetBrains.Annotations;
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.Text;

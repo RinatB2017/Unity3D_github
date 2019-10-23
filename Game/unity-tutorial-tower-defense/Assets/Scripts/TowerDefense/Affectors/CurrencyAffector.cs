@@ -1,4 +1,4 @@
-﻿using TowerDefense.Economy;
+using TowerDefense.Economy;
 using TowerDefense.Level;
 using UnityEngine;
 

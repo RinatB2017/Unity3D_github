@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Copyright (c) 2014, Nick Gravelyn.
  *
  * This software is provided 'as-is', without any express or implied

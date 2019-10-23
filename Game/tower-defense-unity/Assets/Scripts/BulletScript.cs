@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using Assets.Scripts;
 
 public class BulletScript : FlyingShotScript

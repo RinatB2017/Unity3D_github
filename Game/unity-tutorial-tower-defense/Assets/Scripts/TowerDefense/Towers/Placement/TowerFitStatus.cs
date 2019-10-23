@@ -1,4 +1,4 @@
-﻿namespace TowerDefense.Towers.Placement
+namespace TowerDefense.Towers.Placement
 {
 	/// <summary>
 	/// Enum representing the state of how a tower fits into a placement area

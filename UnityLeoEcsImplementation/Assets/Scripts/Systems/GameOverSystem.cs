@@ -1,4 +1,4 @@
-﻿using Components;
+using Components;
 using LeopotamGroup.Ecs;
 using UnityEngine;
 

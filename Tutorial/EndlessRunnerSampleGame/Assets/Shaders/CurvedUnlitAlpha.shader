@@ -1,4 +1,4 @@
-﻿Shader "Unlit/CurvedUnlitAlpha"
+Shader "Unlit/CurvedUnlitAlpha"
 {
 	Properties
 	{

@@ -1,4 +1,4 @@
-﻿Shader "Custom/CircleOnTop" {
+Shader "Custom/CircleOnTop" {
 	Properties{
 		[PerRendererData] _MainTex("Sprite Texture", 2D) = "white" {}
 

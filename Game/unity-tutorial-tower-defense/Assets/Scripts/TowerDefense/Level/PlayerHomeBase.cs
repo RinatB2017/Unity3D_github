@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using ActionGameFramework.Audio;
 using Core.Health;
 using TowerDefense.Agents;

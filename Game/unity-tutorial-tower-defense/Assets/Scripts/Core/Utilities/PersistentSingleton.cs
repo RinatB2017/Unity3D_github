@@ -1,4 +1,4 @@
-﻿namespace Core.Utilities
+namespace Core.Utilities
 {
 	/// <summary>
 	/// Singleton that persists across multiple scenes

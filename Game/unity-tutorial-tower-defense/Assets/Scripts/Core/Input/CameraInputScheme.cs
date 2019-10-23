@@ -1,4 +1,4 @@
-﻿using Core.Camera;
+using Core.Camera;
 using UnityEngine;
 
 namespace Core.Input

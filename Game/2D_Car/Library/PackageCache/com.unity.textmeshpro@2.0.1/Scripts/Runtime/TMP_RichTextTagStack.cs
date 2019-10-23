@@ -1,4 +1,4 @@
-﻿namespace TMPro
+namespace TMPro
 {
     /// <summary>
     /// Structure used to track basic XML tags which are binary (on / off)

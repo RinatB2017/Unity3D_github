@@ -1,4 +1,4 @@
-﻿// #define QUICKSEARCH_EXAMPLES
+// #define QUICKSEARCH_EXAMPLES
 using JetBrains.Annotations;
 using System;
 using System.Collections.Generic;

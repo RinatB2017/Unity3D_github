@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using UnityEngine.UI;
 #if UNITY_ANALYTICS
 using UnityEngine.Analytics;

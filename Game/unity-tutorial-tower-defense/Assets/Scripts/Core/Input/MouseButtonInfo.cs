@@ -1,4 +1,4 @@
-﻿namespace Core.Input
+namespace Core.Input
 {
 	/// <summary>
 	/// Info for mouse

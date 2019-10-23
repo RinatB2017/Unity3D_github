@@ -1,4 +1,4 @@
-﻿//#define QUICKSERACH_DEBUG
+//#define QUICKSERACH_DEBUG
 using System;
 using System.Collections.Generic;
 using UnityEditor;

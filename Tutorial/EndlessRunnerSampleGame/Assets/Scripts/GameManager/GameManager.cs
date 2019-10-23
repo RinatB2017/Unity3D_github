@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections.Generic;
 #if UNITY_ANALYTICS
 using UnityEngine.Analytics;

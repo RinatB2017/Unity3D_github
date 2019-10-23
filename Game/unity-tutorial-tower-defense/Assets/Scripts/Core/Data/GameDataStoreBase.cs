@@ -1,4 +1,4 @@
-﻿namespace Core.Data
+namespace Core.Data
 {
 	/// <summary>
 	/// Base game data store for GameManager to save, containing only data for saving volumes

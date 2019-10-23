@@ -1,4 +1,4 @@
-﻿/// <summary>
+/// <summary>
 /// Singular class responsible for formatting strings
 /// </summary>
 public static class StringFormatter

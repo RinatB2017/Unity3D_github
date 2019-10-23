@@ -1,4 +1,4 @@
-﻿namespace Core.UI
+namespace Core.UI
 {
 	/// <summary>
 	/// Base interface for menu pages

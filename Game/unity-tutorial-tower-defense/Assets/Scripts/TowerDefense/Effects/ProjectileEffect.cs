@@ -1,4 +1,4 @@
-﻿using ActionGameFramework.Projectiles;
+using ActionGameFramework.Projectiles;
 using Core.Utilities;
 using TowerDefense.Towers;
 using UnityEngine;

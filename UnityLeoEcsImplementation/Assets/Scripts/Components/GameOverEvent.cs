@@ -1,4 +1,4 @@
-﻿using LeopotamGroup.Ecs;
+using LeopotamGroup.Ecs;
 
 namespace Components
 {

@@ -1,4 +1,4 @@
-﻿
+
 using Systems;
 
 namespace Components

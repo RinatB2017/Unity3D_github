@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 //This script has been suggested by Bryan Livingston (@BryanLivingston). Thanks Bryan!

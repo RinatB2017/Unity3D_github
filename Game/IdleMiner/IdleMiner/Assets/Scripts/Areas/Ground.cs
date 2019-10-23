@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 /// <summary>
 /// Ground Area, used to transfer resouces from the elevator shaft to market. (Selling them)

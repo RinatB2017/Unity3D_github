@@ -1,4 +1,4 @@
-﻿using UnityEngine.ProBuilder.AssetIdRemapUtility;
+using UnityEngine.ProBuilder.AssetIdRemapUtility;
 using UnityEngine.ProBuilder;
 using Version = UnityEngine.ProBuilder.Version;
 

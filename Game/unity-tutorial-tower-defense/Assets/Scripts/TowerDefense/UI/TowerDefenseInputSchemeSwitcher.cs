@@ -1,4 +1,4 @@
-﻿using Core.Input;
+using Core.Input;
 using TowerDefense.UI.HUD;
 using State = TowerDefense.UI.HUD.GameUI.State;
 

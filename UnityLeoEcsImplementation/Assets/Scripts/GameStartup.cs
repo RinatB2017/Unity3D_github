@@ -1,4 +1,4 @@
-﻿using Systems;
+using Systems;
 using LeopotamGroup.Ecs;
 using UnityEngine;
 

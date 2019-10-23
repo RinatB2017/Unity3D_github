@@ -1,4 +1,4 @@
-﻿namespace UnityEngine.Rendering.LWRP
+namespace UnityEngine.Rendering.LWRP
 {
     [System.Serializable]
     public class StencilStateData

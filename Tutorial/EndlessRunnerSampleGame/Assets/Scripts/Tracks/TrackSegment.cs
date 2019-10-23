@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using UnityEngine.AddressableAssets;
 #if UNITY_EDITOR
 using UnityEditor;

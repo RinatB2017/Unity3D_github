@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 //T must inherits from MonoBehaviour
 public class Singleton<T> : MonoBehaviour where T : MonoBehaviour {

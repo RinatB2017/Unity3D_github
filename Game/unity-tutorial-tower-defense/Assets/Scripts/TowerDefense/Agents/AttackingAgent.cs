@@ -1,4 +1,4 @@
-﻿using Core.Health;
+using Core.Health;
 using TowerDefense.Affectors;
 using TowerDefense.Towers;
 using UnityEngine;

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using ActionGameFramework.Health;
 using Core.Utilities;
 using TowerDefense.Affectors;

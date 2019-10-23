@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using Core.Game;
 using Core.UI;
 using TowerDefense.Game;

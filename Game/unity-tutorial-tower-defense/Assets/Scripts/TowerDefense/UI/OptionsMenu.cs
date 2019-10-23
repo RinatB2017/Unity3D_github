@@ -1,4 +1,4 @@
-﻿using Core.UI;
+using Core.UI;
 using TowerDefense.Game;
 using UnityEngine.UI;
 

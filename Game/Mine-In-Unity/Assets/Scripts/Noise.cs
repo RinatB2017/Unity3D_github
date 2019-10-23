@@ -1,4 +1,4 @@
-﻿// SimplexNoise for C#
+// SimplexNoise for C#
 // Author: Heikki Törmälä
 
 //This is free and unencumbered software released into the public domain.

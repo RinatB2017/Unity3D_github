@@ -1,4 +1,4 @@
-﻿using ActionGameFramework.Health;
+using ActionGameFramework.Health;
 using ActionGameFramework.Helpers;
 using Core.Health;
 using UnityEngine;

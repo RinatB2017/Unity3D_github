@@ -1,4 +1,4 @@
-﻿// #define QUICKSEARCH_DEBUG
+// #define QUICKSEARCH_DEBUG
 // #define QUICKSEARCH_ANALYTICS_LOGGING
 using System;
 using System.Collections.Generic;

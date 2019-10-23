@@ -1,4 +1,4 @@
-﻿using Core.Game;
+using Core.Game;
 using TowerDefense.Game;
 using UnityEngine;
 using UnityEngine.EventSystems;

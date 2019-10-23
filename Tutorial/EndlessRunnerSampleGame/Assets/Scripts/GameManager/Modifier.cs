@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 /// <summary>
 /// This class is used to modify the game state (e.g. limit length run, seed etc.)

@@ -1,4 +1,4 @@
-﻿namespace UnityEditor
+namespace UnityEditor
 {
 	static class CustomRuleTileMenu
 	{

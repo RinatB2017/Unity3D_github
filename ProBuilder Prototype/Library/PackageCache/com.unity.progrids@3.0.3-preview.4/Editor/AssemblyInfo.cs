@@ -1,1 +1,1 @@
-﻿[assembly: System.Runtime.CompilerServices.InternalsVisibleTo("Unity.ProGrids.Editor.Tests")]
+[assembly: System.Runtime.CompilerServices.InternalsVisibleTo("Unity.ProGrids.Editor.Tests")]

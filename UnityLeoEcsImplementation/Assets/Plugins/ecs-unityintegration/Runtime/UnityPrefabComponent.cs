@@ -1,4 +1,4 @@
-﻿// ----------------------------------------------------------------------------
+// ----------------------------------------------------------------------------
 // The MIT License
 // Unity integration https://github.com/Leopotam/ecs-unityintegration
 // for ECS framework https://github.com/Leopotam/ecs

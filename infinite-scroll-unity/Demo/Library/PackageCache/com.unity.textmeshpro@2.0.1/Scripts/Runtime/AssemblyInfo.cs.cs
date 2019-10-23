@@ -1,4 +1,4 @@
-﻿using System.Runtime.CompilerServices;
+using System.Runtime.CompilerServices;
 
 // Allow internal visibility for testing purposes.
 [assembly: InternalsVisibleTo("Unity.TextCore")]

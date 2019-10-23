@@ -1,4 +1,4 @@
-﻿using Core.Utilities;
+using Core.Utilities;
 using TowerDefense.UI.HUD;
 using UnityEngine;
 

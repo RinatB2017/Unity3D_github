@@ -1,4 +1,4 @@
-﻿// ----------------------------------------------------------------------------
+// ----------------------------------------------------------------------------
 // The MIT License
 // InfiniteScroll https://github.com/mopsicus/infinite-scroll-unity
 // Copyright (c) 2018-2019 Mopsicus <mail@mopsicus.ru>

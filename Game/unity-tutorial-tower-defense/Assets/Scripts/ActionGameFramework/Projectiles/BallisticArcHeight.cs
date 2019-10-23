@@ -1,4 +1,4 @@
-﻿namespace ActionGameFramework.Projectiles
+namespace ActionGameFramework.Projectiles
 {
 	/// <summary>
 	/// Ballistic arc calculation priorities/preferences.

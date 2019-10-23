@@ -1,4 +1,4 @@
-﻿using Core.Health;
+using Core.Health;
 using UnityEngine;
 
 namespace ActionGameFramework.Spawning

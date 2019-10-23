@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using UnityEngine.AddressableAssets;
 
 // Base class for any list in the shop (Consumable, Character, Themes)

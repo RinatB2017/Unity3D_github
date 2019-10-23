@@ -1,4 +1,4 @@
-﻿namespace UnityNightPool 
+namespace UnityNightPool 
 {
 	[System.Serializable]
 	public class PoolSetup

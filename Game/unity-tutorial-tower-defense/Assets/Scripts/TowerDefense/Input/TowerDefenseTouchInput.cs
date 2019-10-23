@@ -1,4 +1,4 @@
-﻿using Core.Input;
+using Core.Input;
 using TowerDefense.UI;
 using TowerDefense.UI.HUD;
 using UnityEngine;

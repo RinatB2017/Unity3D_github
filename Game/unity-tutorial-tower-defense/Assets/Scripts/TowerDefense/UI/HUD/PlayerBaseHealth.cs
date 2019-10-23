@@ -1,4 +1,4 @@
-﻿using System.Globalization;
+using System.Globalization;
 using Core.Health;
 using TowerDefense.Level;
 using UnityEngine;

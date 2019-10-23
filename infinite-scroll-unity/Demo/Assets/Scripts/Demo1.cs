@@ -1,4 +1,4 @@
-﻿using Mopsicus.InfiniteScroll;
+using Mopsicus.InfiniteScroll;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Core.Health;
 using Core.Utilities;
 using UnityEngine;

@@ -1,4 +1,4 @@
-﻿// When enabled, allows setting the material by dropping a material onto the MeshRenderer inspector component. 
+// When enabled, allows setting the material by dropping a material onto the MeshRenderer inspector component. 
 // The drawback is that the MeshRenderer inspector will not have properties for light probes, so if you need light probe support, do not enable this.
 //#define ALLOW_MESHRENDERER_MATERIAL_DRAG_N_DROP
 

@@ -1,4 +1,4 @@
-﻿using TowerDefense.Targetting;
+using TowerDefense.Targetting;
 using UnityEngine;
 
 namespace TowerDefense.Towers

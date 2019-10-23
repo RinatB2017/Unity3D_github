@@ -1,4 +1,4 @@
-﻿using TowerDefense.Towers;
+using TowerDefense.Towers;
 using UnityEngine;
 
 namespace TowerDefense.UI.HUD

@@ -1,4 +1,4 @@
-﻿#pragma warning disable 0219
+#pragma warning disable 0219
 
 using UnityEngine;
 using System.Text;

@@ -1,4 +1,4 @@
-﻿using Core.Input;
+using Core.Input;
 using TowerDefense.Level;
 using TowerDefense.Towers;
 using TowerDefense.UI.HUD;

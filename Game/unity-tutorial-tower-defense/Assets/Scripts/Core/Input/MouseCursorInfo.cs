@@ -1,4 +1,4 @@
-﻿namespace Core.Input
+namespace Core.Input
 {
 	class MouseCursorInfo : PointerInfo
 	{

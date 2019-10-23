@@ -1,4 +1,4 @@
-﻿//#define TMP_DEBUG_MODE
+//#define TMP_DEBUG_MODE
 
 using UnityEngine;
 using System.Collections.Generic;

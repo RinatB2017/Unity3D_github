@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using ActionGameFramework.Health;
 using ActionGameFramework.Helpers;
 using ActionGameFramework.Projectiles;

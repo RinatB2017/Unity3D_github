@@ -1,4 +1,4 @@
-﻿namespace UnityEngine.ProBuilder.KdTree
+namespace UnityEngine.ProBuilder.KdTree
 {
 	interface IPriorityQueue<TItem, TPriority>
 	{

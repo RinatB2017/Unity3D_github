@@ -1,4 +1,4 @@
-﻿using TowerDefense.MeshCreator;
+using TowerDefense.MeshCreator;
 using UnityEditor;
 using UnityEngine;
 

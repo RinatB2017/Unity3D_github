@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Core.Utilities;
 
 namespace Core.Health

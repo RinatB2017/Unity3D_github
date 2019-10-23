@@ -1,4 +1,4 @@
-﻿namespace TowerDefense.Level
+namespace TowerDefense.Level
 {
 	/// <summary>
 	/// An enum to represent the different level states

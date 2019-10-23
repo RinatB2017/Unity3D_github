@@ -1,4 +1,4 @@
-﻿
+
 using Core.Game;
 using Core.Health;
 using TowerDefense.Game;

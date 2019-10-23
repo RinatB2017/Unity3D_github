@@ -1,4 +1,4 @@
-﻿namespace Core.UI
+namespace Core.UI
 {
 	/// <summary>
 	/// Simplest form of a MainMenuPage - the activating/deactivating of a page is instantaneous

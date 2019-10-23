@@ -1,4 +1,4 @@
-﻿Shader "Unlit/CurvedUnlitCloud"
+Shader "Unlit/CurvedUnlitCloud"
 { 
 	Properties
 	{

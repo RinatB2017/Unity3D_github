@@ -1,4 +1,4 @@
-﻿using ActionGameFramework.Projectiles;
+using ActionGameFramework.Projectiles;
 using UnityEngine;
 
 namespace ActionGameFramework.Helpers

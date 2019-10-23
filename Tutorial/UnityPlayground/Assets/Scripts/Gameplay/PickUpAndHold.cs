@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 
 [AddComponentMenu("Playground/Gameplay/Pick Up And Hold")]
 public class PickUpAndHold : MonoBehaviour
