@@ -1,4 +1,0 @@
-#Sun Mar 22 14:50:30 MSK 2020
-base.0=/home/boss/Programming/_GitHub/Unity3D_github/starukon/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
-path.0=classes.dex
-renamed.0=classes.dex
